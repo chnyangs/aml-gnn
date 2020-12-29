@@ -1,0 +1,25 @@
+site_name: ''
+use_directory_urls: true
+
+
+site_url: https://readingpapers.academy
+repo_name: 'chnyangs/amlgnn'
+repo_url: https://github.com/chnyangs/aml-gnn.git
+edit_uri: ''
+
+nav:
+  - About: 'index.md'
+  - Attacks:
+    - MIA:
+        - NIPS: 'MIA/mia_nips.md'
+  - Survey: 
+    - MIA: 'MIA/survey.md'
+
+theme:
+    name: lux
+    
+
+# flatly darkly litera lumen lux
+
+extra:
+    version: 0.0.1
